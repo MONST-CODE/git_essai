@@ -11,6 +11,13 @@ int main() {
     int age;
     std::cout<<"Entrer votre age "<<std::endl;
     std::cin>>age;
-    std::cout<<"le Double de votre age est "<<2*age<<std::endl;
+    std::cout<<" ======================================"<<std::endl;
+    std::cout<<"||  le Double de votre age est "<<2*age<<"||"<<std::endl;
+    std::cout<<" ======================================="<<std::endl;
+    //Reprenons
+    std::cout<<"On reprend "<<std::endl;
+    std::cout<<"si tu ne donne pas je tchek"<<std::endl;
+    std::cout<<"Ou je call leTeguis en renfort "<<std::endl;
+    std::cout<<"j'ai les nerfs"<<std::endl;
     return 0;
 }
