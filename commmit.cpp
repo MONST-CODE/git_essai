@@ -11,6 +11,6 @@ int main() {
     int age;
     std::cout<<"Entrer votre age "<<std::endl;
     std::cin>>age;
-    std::cout<<"le Double de votreage est"<<2*age<<std::endl;
+    std::cout<<"le Double de votre age est "<<2*age<<std::endl;
     return 0;
 }
