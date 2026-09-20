@@ -19,5 +19,8 @@ int main() {
     std::cout<<"si tu ne donne pas je tchek"<<std::endl;
     std::cout<<"Ou je call leTeguis en renfort "<<std::endl;
     std::cout<<"j'ai les nerfs"<<std::endl;
+    std::cout<<"je suis en train de coder et ca ne veux pas fonctionner"<<std::endl;
+    
+    
     return 0;
 }
