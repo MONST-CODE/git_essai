@@ -24,4 +24,9 @@ int main() {
     std::cout<<"je vais abandonner 😭😭😭"<<std::endl;
     std::cout<<"je suis en train de pleurer"<<std::endl;
     
+
+
+
+
+    return 0 ;
 }
