@@ -22,5 +22,5 @@ int main() {
     std::cout<<"je suis en train de coder et ca ne veux pas fonctionner"<<std::endl;
     std::cout<<"je suis en train de wanda"<<std::endl;
     std::cout<<"je vais abandonner 😭😭😭"<<std::endl;
-    return 0;
+    
 }
