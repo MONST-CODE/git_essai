@@ -1,4 +1,4 @@
-
+# include <iostream>
 
 int main() {
     //Salutations
@@ -23,5 +23,5 @@ int main() {
     std::cout<<"je suis en train de wanda"<<std::endl;
     std::cout<<"je vais abandonner 😭😭😭"<<std::endl;
     std::cout<<"je suis en train de pleurer"<<std::endl;
-    return 0;
+    
 }
